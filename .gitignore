@@ -17,3 +17,6 @@ temp
 CLAUDE.md
 docs
 quantized_models
+logs
+chat.json
+sample.mp3

@@ -27,6 +27,7 @@ Issues = "https://github.com/mzbac/mlx.voxtral/issues"
 [project.entry-points."console_scripts"]
 "mlx-voxtral.quantize" = "mlx_voxtral.scripts.quantize_voxtral:main"
 "mlx-voxtral.generate" = "mlx_voxtral.scripts.generate:main"
+"mlx-voxtral.chat_once" = "mlx_voxtral.scripts.chat_once:main"
 
 [tool.uv]
 package = true
